@@ -1,2 +1,0 @@
-this is a test model
-this is a changed model
